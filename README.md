@@ -1,2 +1,2 @@
 # Password-Guessing-Game
-A Simple text-based game where user and computer picks a secret password(word).
+A Simple text-based game where computer picks a secret password(word) and user guessing it.
